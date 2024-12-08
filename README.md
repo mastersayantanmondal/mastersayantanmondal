@@ -19,9 +19,8 @@
   <a href="mailto:devsayantanmondal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</div>
-
-- ⚡ Fun fact **I am Doing MBA in Marketing instead of Coding**
+  </div>
+⚡ Fun fact **I am Doing MBA in Marketing instead of Coding😄😄** 
 
 
 <h3 align="left">Connect with me:</h3>
