@@ -14,7 +14,12 @@
 
 - 💬 Ask me about **Python , Java and HTML**
 
-- 📫 How to reach me **devsayantanmondal@gmail.com**
+- 📫 How to reach me --
+- <div align="center"> 
+  <a href="mailto:devsayantanmondal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
 - ⚡ Fun fact **I am Doing MBA in Marketing instead of Coding**
 
