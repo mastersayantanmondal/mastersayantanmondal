@@ -1,4 +1,4 @@
-[![MasterHead](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)]
+![MasterHead](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
 <h1 align="center">Hi 👋, I'm Sayantan Mondal</h1>
 <h3 align="center">A passionate Coder and Developer from India</h3>
 
