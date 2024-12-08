@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastersayantanmondal&show_icons=true&locale=en" alt="mastersayantanmondal" /></p>
 
-![](https://leetcard.jacoblin.cool/DEVxSAYANTAN?ext=contest)
+![](https://leetcard.jacoblin.cool/DEVxSAYANTAN?ext=activity)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastersayantanmondal&" alt="mastersayantanmondal" /></p>
 
