@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sayantan-mondal-1a164b198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayantan-mondal-1a164b198" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sayantan_mondal_techi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sayantan_mondal_techi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22640350/sayantan-mondal-techi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sayantan_mondal_techi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devxsayantan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devxsayantan" height="30" width="40" /></a>
 </p>
 
